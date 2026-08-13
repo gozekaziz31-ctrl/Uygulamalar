@@ -1,0 +1,25 @@
+{
+  "name": "baglama-game",
+  "version": "1.0.0",
+  "description": "Gerçekçi Bağlama Çalma Oyunu - Mobil Oyun",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.72.0",
+    "expo": "^49.0.0",
+    "expo-av": "^13.4.0",
+    "react-native-gesture-handler": "^2.12.0",
+    "react-native-reanimated": "^3.3.0",
+    "expo-asset": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-native": "^0.72.0"
+  }
+}
