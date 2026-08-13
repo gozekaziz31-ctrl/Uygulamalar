@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dijital Piyano</string>
+    <string name="play_note">Nota Çal</string>
+    <string name="ready">Hazır</string>
+    <string name="octave1">Oktav 1</string>
+    <string name="octave2">Oktav 2</string>
+    <string name="octave3">Oktav 3</string>
+</resources>
